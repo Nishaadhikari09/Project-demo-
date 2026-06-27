@@ -1,4 +1,4 @@
 # Project-demo-
 This is my first Git repository.
 <br>
-Author - Nisha Adhikari
+Author - Nisha Adhikari (Nutan Adhikari)
